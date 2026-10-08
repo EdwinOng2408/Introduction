@@ -4,7 +4,7 @@ First-year **Data Science & Artificial Intelligence** student at NTU
 ## What I'm currently learning
 - Exploratory Data Analysis
 - Machine Learning
-- Deep Learning
+- Deep Learning (Convolutional Neural Networks and Transfer Learning)
 
 ## What I'm looking to learn/build
 - LeetCoding Skills and C++
