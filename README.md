@@ -1,5 +1,5 @@
 # Hello, I'm Edwin!
-### First-year Data Science & Artificial Intelligence Student at NTU
+First-year **Data Science & Artificial Intelligence** student at NTU
 
 ## What I'm currently learning
 - Exploratory Data Analysis
